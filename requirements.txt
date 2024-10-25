@@ -1,0 +1,7 @@
+qrcode
+numpy
+Pillow
+transformers
+torch
+torchvision
+pandas
